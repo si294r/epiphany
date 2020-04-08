@@ -22,12 +22,6 @@
 
 ![Image](https://raw.githubusercontent.com/si294r/epiphany/master/install-virtual-box-driver.png)
 
-## Install Flatpak 
-
-  * Open [https://flatpak.org/setup/Ubuntu/](https://flatpak.org/setup/Ubuntu/)
-
-![Image](https://raw.githubusercontent.com/si294r/epiphany/master/install-flatpak.png)
-
 ## Install Epiphany (Gnome Web)
 
 ![Image](https://raw.githubusercontent.com/si294r/epiphany/master/install-epiphany.png)
